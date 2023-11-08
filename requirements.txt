@@ -1,0 +1,6 @@
+requests
+argparse
+pytz
+timezonefinder
+pyfiglet
+simple_chalk
